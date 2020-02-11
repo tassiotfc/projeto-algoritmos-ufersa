@@ -1,5 +1,5 @@
 <h1 align="center">
-Conjectura de Collatz | Crescimento Populacional
+Conjectura de Collatz & Crescimento Populacional
 </h1>
 
 <p align="center">
