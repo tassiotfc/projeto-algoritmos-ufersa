@@ -33,7 +33,7 @@ Conjectura de Collatz | Crescimento Populacional
 
 ## 💻 Projeto
 
-Uma descrição do projeto pode ser vista no [documento](TP1-T01.pdf) de especificação.
+Uma descrição do projeto pode ser vista no [documento de especificação](TP1-T01.pdf).
 
 ## :memo: Licença
 
