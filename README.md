@@ -1,3 +1,7 @@
+<h1 align="center">
+Conjectura de Collatz | Crescimento Populacional
+</h1>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tassiotfc/tarefa-algoritmos-ufersa">
 
@@ -25,21 +29,11 @@
 
 ## :rocket: Tecnologias
 
-Tecnologias usadas no desenvolvimento da tarefa:
 <img align="leth" src="c-logo.png" width="200px;" />
 
 ## 💻 Projeto
 
-GoBarber é um projeto de gerenciamento de agendamento de barbearia. As aplicações front-end (web e mobile) consomem esta mesma API. Ele estará disponível para duas plataformas: web e mobile. A aplicação mobile será usada pelos clientes, onde o cliente pode selecionar o prestador de serviço e data para agendar o serviço. Já a parte web será usada pelo prestador de serviço onde ele poderá visualizar quais os agendamentos dos dias da semana.
-
-## 🤔 Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+Uma descrição do projeto pode ser vista no [documento](TP1-T01.pdf) de especificação.
 
 ## :memo: Licença
 
